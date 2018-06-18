@@ -1,14 +1,9 @@
-$mainBlue: blue;
-
 body {
-    color: $mainBlue;
-    padding: 16px;
-    columns: 300px 2;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
 }
 
-.box {
-    a {
-        display: block;
-        padding: 10px;
-    }
+img {
+    max-width: 100%;
+    height: auto;
 }
