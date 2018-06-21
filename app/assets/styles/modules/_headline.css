@@ -45,8 +45,8 @@
         margin-bottom: 1.6em;
     }
 
-    &--b-margin-large {
-         
+    &--no-t-margin {
+        margin-top: 0;
     }
 
 }
